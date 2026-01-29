@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/mehedyhjony/assets/blob/main/skyteamjpg.png" />
+<img src="https://github.com/mehedyhjony/assets/blob/main/skyteamjpg.png?raw=true" width="1200" alt="SkyTeam Banner" />
 </div>
 
 # Run and deploy your AI Studio app
