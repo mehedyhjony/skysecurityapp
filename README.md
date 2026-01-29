@@ -16,6 +16,5 @@ This app is built and branded by SkyTeam Cybersecurity. All AI interactions are 
 
 1. Install dependencies:
    `npm install`
-2. Set the `AIzaSyA-7BeZlifRCGwLdkrrDKrjZafUE8m_eZw` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
