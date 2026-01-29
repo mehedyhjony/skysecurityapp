@@ -2,13 +2,14 @@
 <img src="https://github.com/mehedyhjony/assets/blob/main/skyteamjpg.png?raw=true" width="1200" alt="SkyTeam Banner" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🚀 SkySecurityApp — Powered by SkyTeam Cybersecurity
 
-This contains everything you need to run your app locally.
+This app is built and branded by SkyTeam Cybersecurity. All AI interactions are guided by our ethical standards and modular workflows.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Tp89BpLm_qMn67Y28Z66ipN7BFie6GUi
+🔗 [Launch the branded app](https://github.com/mehedyhjony/skysecurityapp)
 
-## Run Locally
+🧠 Powered by Gemini API — ethically configured by SkyTeam
+
 
 **Prerequisites:**  Node.js
 
